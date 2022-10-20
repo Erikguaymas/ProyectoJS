@@ -1,0 +1,55 @@
+[
+    {
+      "id": 1,
+      "nombre": "Camiseta",
+      "equipo": "Selección Argentina",
+      "precio": 18000,
+      "imagen": "img/CamisetaSelArg.jpg",
+      "detalle":
+        "Camiseta Adidas Hombre Uniforme Titular Qatar 2022. Todos los talles disponibles ."
+    },
+    {
+      "id": 2,
+      "nombre": "Camiseta",
+      "equipo": "Real Madrid",
+      "precio": 17000,
+      "imagen": "img/CamisetaReal.png",
+      "detalle":
+        "Camiseta Adidas Manga corta Hombre Uniforme Titular Temporada 2022. Todos los talles disponibles"
+    },
+    {
+      "id": 3,
+      "nombre": "Campera",
+      "equipo": "Boca Juniors",
+      "precio": 18000,
+      "imagen": "img/CamperaBOCA.JPG",
+      "detalle":
+        "Campera deportiva Adidas Hombre. Temporada invierno color azul 3 tiras amarillas estilo adidas."
+    },
+    {
+      "id": 4,
+      "nombre": "Short",
+      "equipo": "River Plate",
+      "precio": 6000,
+      "imagen": "img/ShortRIVER.jpg",
+      "detalle":
+        "Short Adidas Hombre Uniforme TItular Temporada 21/22. Todos los talles disponibles."
+    },
+    {
+      "id": 5,
+      "nombre": "Camperón",
+      "equipo": "Barcelona",
+      "precio": 20000,
+      "imagen": "img/chaquetaBARSA.jpeg",
+      "detalle":
+        "Chaqueta Acolchada Nike con capucha Temporada invierno Multicolor."
+    },
+    {
+      "id": 6,
+      "nombre": "Pantalón",
+      "equipo": "PSG",
+      "precio": 8000,
+      "imagen": "img/PantalonPSG.jpg",
+      "detalle": "Pantalon strike Nike Hombre Modelo 22/23 Color azul."
+    }
+  ]
